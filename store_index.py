@@ -10,9 +10,6 @@ os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 
 
-# url = "https://github.com/entbappy/End-to-end-Medical-Chatbot-Generative-AI"
-
-# repo_ingestion(url)
 
 
 documents = load_repo("repo/")
