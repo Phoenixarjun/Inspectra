@@ -93,7 +93,6 @@ This project is open-sourced under the [MIT License](LICENSE).
 ## ✍️ Created By
 
 **Naresh B A** – Reimagining developer experiences with AI.
-*Connect with me on [LinkedIn]((www.linkedin.com/in/
-naresh-b-a-1b5331243)) or explore more on [GitHub]((https://github.com/Phoenixarjun)).*
+*Connect with me on [LinkedIn]((www.linkedin.com/in/naresh-b-a-1b5331243)) or explore more on [GitHub]((https://github.com/Phoenixarjun)).*
 
 
